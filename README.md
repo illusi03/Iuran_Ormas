@@ -14,17 +14,23 @@ Untuk menggunakan Aplikasi ini , anda bisa mencoba DEMO nya username / password 
 <p float="left">
   <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/1.PNG" width="400" height="200" alt=""/>
   <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/2.PNG" width="400" height="200" alt=""/>
-  
 </p>
 <p float="left">
-  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/5.PNG" width="200" height="350" alt=""/>
-  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/6.PNG" width="200" height="350" alt=""/>
-  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/7.PNG" width="200" height="350" alt=""/>
-  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/8.PNG" width="200" height="350" alt=""/>
+  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/3.PNG" width="400" height="200" alt="/>
+  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/4.PNG" width="400" height="200" alt=""/>
 </p>
 <p float="left">
-  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/8a.PNG" width="400" height="600" alt=""/>
-  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/9.PNG" width="400" height="600" alt=""/>
+  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/5.PNG" width="400" height="200" alt=""/>
+  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/6.PNG" width="400" height="200" alt=""/>
+</p>
+<p float="left">
+  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/7.PNG" width="400" height="200" alt=""/>
+  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/8.PNG" width="400" height="200" alt=""/>
+</p>
+                                                                                                                 
+<p float="left">
+  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/8a.PNG" width="400" height="200" alt=""/>
+  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/9.PNG" width="400" height="200" alt=""/>
 </p>
 
 
