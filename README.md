@@ -16,7 +16,7 @@ Untuk menggunakan Aplikasi ini , anda bisa mencoba DEMO nya username / password 
   <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/2.PNG" width="400" height="200" alt=""/>
 </p>
 <p float="left">
-  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/3.PNG" width="400" height="200" alt="/>
+  <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/3.PNG" width="400" height="200" alt=""/>
   <img src="https://github.com/illusi03/Iuran_Ormas/blob/master/Screenshot/4.PNG" width="400" height="200" alt=""/>
 </p>
 <p float="left">
