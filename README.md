@@ -5,7 +5,7 @@ Manajemen keuangan (Iuran , Saldo) untuk memudahkan dalam manajemen (Pengecekan 
 
 ## Penting untuk dibaca
 Untuk menggunakan Aplikasi ini , anda bisa mencoba DEMO nya username / password dan link dibawah ini : 
-* http://azhari.my.id/iuran/admin/index.php
+* https://iuran-persis.azhari.my.id/
 * Username : 123
 * Password : 123
 * Level : ADMIN
